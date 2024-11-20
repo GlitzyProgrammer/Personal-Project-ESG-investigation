@@ -1,0 +1,17 @@
+About the file
+
+Symbol: The unique stock symbol associated with the company
+Name: The official name of the company.
+Address: The primary address of the company's headquarters.
+Sector: The sector of the economy in which the company operates.
+Industry: The specific industry to which the company belongs.
+Full Time Employees: The total count of full-time employees working within the company.
+Description: A concise overview of the company's core business and activities.
+Total ESG Risk Score: An aggregate score evaluating the company's overall ESG risk.
+Environment Risk Score: A score indicating the company's environmental sustainability and impact.
+Governance Risk Score: A score reflecting the quality of the company's governance structure.
+Social Risk Score: A score assessing the company's societal and employee-related practices.
+Controversy Level: The level of controversies associated with the company's ESG practices.
+Controversy Score: A numerical representation of the extent of ESG-related controversies.
+ESG Risk Percentile: The company's rank in terms of ESG risk compared to others.
+ESG Risk Level: A categorical indication of the company's ESG risk level.
