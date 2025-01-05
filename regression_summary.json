@@ -1,0 +1,90 @@
+[
+  {
+    "Sector.Name": "Technology",
+    "Multiple.R": 0.2505,
+    "R.Square": 0.0627,
+    "Adjusted.R.Square": 0.0463,
+    "Standard.Error": 4.956,
+    "Number.of.Observations": 59
+  },
+  {
+    "Sector.Name": "Basic Materials",
+    "Multiple.R": 0.182,
+    "R.Square": 0.0331,
+    "Adjusted.R.Square": -0.0238,
+    "Standard.Error": 5.5815,
+    "Number.of.Observations": 19
+  },
+  {
+    "Sector.Name": "Consumer Cyclical",
+    "Multiple.R": 0.2291,
+    "R.Square": 0.0525,
+    "Adjusted.R.Square": 0.0332,
+    "Standard.Error": 5.7564,
+    "Number.of.Observations": 51
+  },
+  {
+    "Sector.Name": "Healthcare",
+    "Multiple.R": 0.0475,
+    "R.Square": 0.0023,
+    "Adjusted.R.Square": -0.0177,
+    "Standard.Error": 5.212,
+    "Number.of.Observations": 52
+  },
+  {
+    "Sector.Name": "Industrials",
+    "Multiple.R": 0.1244,
+    "R.Square": 0.0155,
+    "Adjusted.R.Square": -0.0015,
+    "Standard.Error": 7.1293,
+    "Number.of.Observations": 60
+  },
+  {
+    "Sector.Name": "Utilities",
+    "Multiple.R": 0.1622,
+    "R.Square": 0.0263,
+    "Adjusted.R.Square": -0.0112,
+    "Standard.Error": 3.8131,
+    "Number.of.Observations": 28
+  },
+  {
+    "Sector.Name": "Financial Services",
+    "Multiple.R": 0.4537,
+    "R.Square": 0.2059,
+    "Adjusted.R.Square": 0.1926,
+    "Standard.Error": 3.9511,
+    "Number.of.Observations": 62
+  },
+  {
+    "Sector.Name": "Energy",
+    "Multiple.R": 0.2674,
+    "R.Square": 0.0715,
+    "Adjusted.R.Square": 0.0199,
+    "Standard.Error": 6.588,
+    "Number.of.Observations": 20
+  },
+  {
+    "Sector.Name": "Real Estate",
+    "Multiple.R": 0.32,
+    "R.Square": 0.1024,
+    "Adjusted.R.Square": 0.0679,
+    "Standard.Error": 2.5276,
+    "Number.of.Observations": 28
+  },
+  {
+    "Sector.Name": "Communication Services",
+    "Multiple.R": 0.4158,
+    "R.Square": 0.1729,
+    "Adjusted.R.Square": 0.1039,
+    "Standard.Error": 6.2282,
+    "Number.of.Observations": 14
+  },
+  {
+    "Sector.Name": "Consumer Defensive",
+    "Multiple.R": 0.1367,
+    "R.Square": 0.0187,
+    "Adjusted.R.Square": -0.013,
+    "Standard.Error": 5.2881,
+    "Number.of.Observations": 33
+  }
+]
