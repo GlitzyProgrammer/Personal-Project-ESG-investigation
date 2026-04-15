@@ -2,8 +2,25 @@
 
 ## Overview
 This project is a personal exercise using **Jupyter Notebook (Python)** and **R** to analyze:
+
 1. The effect of ESG (Environmental, Social, and Governance) scores on stock performance.
 2. What factors contribute to an ESG score.
+
+# What is ESG?
+
+**Environmental (E):** Impact on the natural environment, such as carbon footprint, resource usage, and waste management.
+
+**Social (S):** Relationships with employees, customers, and communities, focusing on diversity, labor practices, and community engagement.
+
+**Governance (G):** Leadership, business ethics, and transparency in corporate decision-making.
+
+<br>
+
+> The ESG Score is used to make investment decisions for potential investors.
+
+<br>
+
+*Source: [EcoVadis Glossary - ESG Investing](https://ecovadis.com/glossary/esg-environmental-social-governance-investing/)*
 
 The datasets used in this analysis are:
 - [Mutual Funds and ETFs](https://www.kaggle.com/datasets/stefanoleone992/mutual-funds-and-etfs)
